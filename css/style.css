@@ -763,7 +763,7 @@ b, strong {
 .education-agile-w3l-year h6,.education-agile-w3l-info  h6 {
     font-size: 13px;
     letter-spacing: 2px;
-    color: #ff4f81;
+    color: #a94442;
 }
 .education-agile-w3l-info  p {
     line-height: 28px;
@@ -1829,7 +1829,7 @@ iframe {
 	}
 }
 #skill{padding:50px 15px;text-align:center}
-#skill h2{color:#ce8483;margin-bottom:50px}
+#skill h2{color:#000000;margin-bottom:50px}
 #skill ul{display:block;margin:0 auto;padding:0;max-width:800px}
 #skill li{display:inline-block;margin:7px;padding:5px 10px;color:#374054;background:#e4e4ea;list-style:none;cursor:default;font-size:1.2em}
 #experience-timeline>div{background:#fff;padding:10px;margin-bottom:10px;border:1px solid #dcd9d9}
